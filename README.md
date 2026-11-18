@@ -82,7 +82,7 @@ Open to software engineering roles and freelance projects.
 ## 📊 GitHub Stats:
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats">
+  <img src="stats.svg" alt="GitHub stats">
 </p>
 
 <p>
@@ -90,7 +90,7 @@ Open to software engineering roles and freelance projects.
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithwekesa&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook&exclude_repo=titanic-data,machine-learning" alt="Top languages">
+  <img src="languages.svg" alt="Most used languages">
 </p>
 
 ## 📬 Let's Talk:
