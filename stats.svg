@@ -13,7 +13,7 @@
     <text x="25" y="168" font-size="14" fill="#38bdae">Public Repositories:</text>
     <text x="235" y="168" text-anchor="end" font-size="14" font-weight="700" fill="#38bdae">40</text>
     <circle cx="395" cy="105" r="50" fill="none" stroke="#70a5fd" stroke-width="5"/>
-    <text x="395" y="106" text-anchor="middle" font-size="26" font-weight="700" fill="#70a5fd">640</text>
+    <text x="395" y="106" text-anchor="middle" font-size="26" font-weight="700" fill="#70a5fd">641</text>
     <text x="395" y="126" text-anchor="middle" font-size="10" fill="#38bdae">contributions</text>
     <text x="395" y="139" text-anchor="middle" font-size="10" fill="#38bdae">in the last year</text>
   </g>
