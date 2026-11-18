@@ -82,7 +82,7 @@ Open to software engineering roles and freelance projects.
 ## 📊 GitHub Stats:
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
 </p>
 
 <p>
