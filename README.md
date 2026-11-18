@@ -1,35 +1,24 @@
-<h1 align="center">Hi, I'm Faith Wekesa</h1>
+## 💫 About Me:
 
-<p align="center">
-  <b>Software engineer in Nairobi.</b><br>
-  I build web and mobile products and I test them properly before they ship.
-</p>
-
-<p align="center">
-  <a href="https://personal-website-bay-one-27.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f7d6b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/faith-nasimiyu-wekesa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=faithwekesanas@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-</p>
-
-<p align="center">Open to software engineering roles and freelance projects.</p>
-
----
-
-## About me
-
+Software engineer in Nairobi. I build web and mobile products and I test them properly before they ship.
 I like the part of the work that sits between a messy real-world problem and a screen someone can actually use.
 I start with who will use it. Then I build it end to end: research, design, code, tests and deployment.
 
-My team work comes from the [AkiraChix](https://github.com/akirachix) software engineering programme where I shipped features in code-reviewed pull requests.
-My solo work is below. Every project has a live link.
+Open to software engineering roles and freelance projects.
 
-## What I'm working on now
+## 🌐 Socials:
+
+<a href="https://personal-website-bay-one-27.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f7d6b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/faith-nasimiyu-wekesa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=faithwekesanas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
+## 🚀 What I'm working on now:
 
 - **Kaunta** : learning ERP systems with Odoo 17. A custom M-Pesa module and a small web counter app are next.
 - **Portfolio** : case studies that explain the decisions behind each project. [See it live](https://personal-website-bay-one-27.vercel.app).
 - **Kilele Properties** : adding smarter search and better photography.
 
-## Featured projects
+## 🛠️ Featured Projects:
 
 | Project | What it does | Built with | Links |
 | :-- | :-- | :-- | :-- |
@@ -53,12 +42,12 @@ My solo work is below. Every project has a live link.
 
 </details>
 
-## Team projects at AkiraChix
+## 🤝 Team Projects at AkiraChix:
 
 - **HUZA** : a B2B marketplace where suppliers sell by-products and processors turn them into finished goods. I built the listings screens plus the admin sign-in and profile screens. I also reviewed teammates' pull requests.
 - **FikaMarket** : a marketplace for small-scale farmers in Zambia. I worked from research and user flows in Figma through to a Flutter buyers' app.
 
-## Tech stack
+## 💻 Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -90,18 +79,21 @@ My solo work is below. Every project has a live link.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-## GitHub stats
+## 📊 GitHub Stats:
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&include_all_commits=true&title_color=2f7d6b&icon_color=2f7d6b&text_color=3d4a46&bg_color=f4faf8" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithwekesa&layout=compact&hide_border=true&title_color=2f7d6b&text_color=3d4a46&bg_color=f4faf8" alt="Top languages">
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faithwekesa&hide_border=true&ring=2f7d6b&fire=2f7d6b&currStreakLabel=2f7d6b&background=f4faf8" alt="Contribution streak">
+<p>
+  <img src="https://streak-stats.demolab.com/?user=faithwekesa&hide_border=true&theme=tokyonight" alt="Contribution streak">
 </p>
 
-## Let's talk
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithwekesa&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+</p>
+
+## 📬 Let's Talk:
 
 If you are hiring or want a website built for your business I would love to hear from you.
 [Email me](https://mail.google.com/mail/?view=cm&to=faithwekesanas@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/faith-nasimiyu-wekesa/) · [Visit my portfolio](https://personal-website-bay-one-27.vercel.app)
