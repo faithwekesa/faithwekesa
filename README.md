@@ -82,15 +82,15 @@ Open to software engineering roles and freelance projects.
 ## 📊 GitHub Stats:
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faithwekesa&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats">
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=faithwekesa&hide_border=true&theme=tokyonight" alt="Contribution streak">
+  <img src="streak.svg" alt="Contribution streak">
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithwekesa&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithwekesa&layout=compact&hide_border=true&theme=tokyonight&hide=jupyter%20notebook&exclude_repo=titanic-data,machine-learning" alt="Top languages">
 </p>
 
 ## 📬 Let's Talk:
